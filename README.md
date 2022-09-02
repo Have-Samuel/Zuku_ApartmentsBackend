@@ -146,7 +146,7 @@ LinkedIn: [Firdavs Allamurotov](https://www.linkedin.com/in/firdavs-allamurotov/
 
 👤 Have Samuel Kabareebe<br>
 GitHub: [@Have-Samuel](https://github.com/Have-Samuel)<br>
-Twitter: [@@samhave1](https://twitter.com/samhave1)<br>
+Twitter: [@samhave1](https://twitter.com/samhave1)<br>
 LinkedIn: [Have Samuel Kabareebe](https://www.linkedin.com/in/have-samuel/)<br>
 
 <hr>
